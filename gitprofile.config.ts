@@ -94,8 +94,8 @@ const CONFIG = {
     'Antd',
     'Tailwind',
     'Git',
-    'Github,
-    'VSCode'
+    'Github',
+    'VSCode''
   ],
   experiences: [
     {
