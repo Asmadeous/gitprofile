@@ -58,7 +58,7 @@ const CONFIG = {
   },
   social: {
     linkedin: 'asmadeous',
-    twitter: 'A,
+    twitter: '',
     facebook: '',
     instagram: '',
     reddit: '',
