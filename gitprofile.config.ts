@@ -95,7 +95,7 @@ const CONFIG = {
     'Tailwind',
     'Git',
     'Github',
-    'VSCode''
+    'VSCode'
   ],
   experiences: [
     {
